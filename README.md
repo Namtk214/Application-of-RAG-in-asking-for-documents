@@ -1,5 +1,4 @@
 # Application-of-RAG-in-asking-for-documents
-# Project RAG for AIO2024 Course
 
 This project demonstrates the application of Retrieval-Augmented Generation (RAG) for document question answering within the context of the AIO2024 course. This README provides detailed instructions on setting up and running the project, including building the RAG program and creating a chat interface for user interaction.
 
